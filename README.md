@@ -9,7 +9,7 @@ Started this project as a design mock up for Cards Library v1.0 from dribbblw
 
 ## Video Series
 
-**Part 1-** https://youtu.be/4lHDXcOXOYc
+**Part 1-** https://youtu.be/6PkorQFmFas
 In this video, you will see how Paid Card, where I make use of **Materials, Row, Columns, Stack, ClipOval, Spacer, Divider**
 
 ## Screenshots
