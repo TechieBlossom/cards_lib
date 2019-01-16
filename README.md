@@ -2,15 +2,15 @@
 
 Flutter project for cards library from dribbble
 
-## Getting Started
+Started this project as a design mock up for Cards Library v1.0 from dribbblw
+**Design: Cards v1.0** - https://dribbble.com/shots/5151284-Cards
 
-This project is a starting point for a Flutter application.
+*This project uses Dart 2*
 
-A few resources to get you started if this is your first Flutter project:
+## Video Series
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+**Part 1-** https://youtu.be/4lHDXcOXOYc
+In this video, you will see how Paid Card, where I make use of **Materials, Row, Columns, Stack, ClipOval, Spacer, Divider**
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+<table style={border:"none"}><tr><td><img src="https://github.com/TechieBlossom/cards_lib/blob/master/screenshots/cards_lib_paid_001.png" alt="Home Screen" width="300"/></td></tr></table>
